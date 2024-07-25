@@ -14,3 +14,28 @@ h1{
     background-color: #A73131;
     color: white;
 }
+
+/* cashier main login */
+.cashier-login-page .align-items-center .col-lg-4{
+    background-color: #FC9A63;
+    padding: 30px;
+    border-radius: 10px;
+}
+.cashier-login-page .align-items-center .btn{
+    background-color: #A83232;
+    color: white;
+    border-radius: 5px;
+    width: 100%;
+}
+.cashier-login-page .align-items-center .forgot-pw{
+    color: rgb(0, 0, 0);
+}
+/* dash-board */
+.cashier-dashboard-page .card{
+    padding: 20px;
+    background-color: #A63231;
+}
+.cashier-dashboard-page a{
+    text-decoration: none;
+    color: white;
+}
